@@ -1,0 +1,4 @@
+https://dmit-2018.github.io/LabSpecs/Lab/jobing.html#new-job-processing
+
+reference:
+https://dmit-2018.github.io/demos/Northwind/CustomerOrders/#selected-customer
